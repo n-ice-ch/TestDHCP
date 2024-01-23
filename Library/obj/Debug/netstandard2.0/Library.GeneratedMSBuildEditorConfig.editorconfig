@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = GitHub.JPMikkers.DHCP
-build_property.ProjectDir = C:\temp\pxe\Library\
+build_property.ProjectDir = C:\GIT\_nw\TestDHCP\Library\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

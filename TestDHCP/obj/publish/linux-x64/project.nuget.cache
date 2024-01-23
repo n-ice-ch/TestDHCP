@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ILUGRkhz3CW8TZN9uWu7vgs0uiDghv3Tgtp+J6/Szmx0iWQwbSMCtRnXGEq/011z6Q+YqixRobmShA6qJJlrCA==",
+  "dgSpecHash": "bIvUC6fbqD092TCaFpXKD/e5/wOVCR5Ab82COIT9WFohwi1Dbtw+VHBTsaPjxkvOyEUVfTQN4Bbq82b7UlJUPg==",
   "success": true,
-  "projectFilePath": "C:\\temp\\pxe\\TestDHCP\\TestDHCP.csproj",
+  "projectFilePath": "C:\\GIT\\_nw\\TestDHCP\\TestDHCP\\TestDHCP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barne\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
     "C:\\Users\\barne\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.1\\microsoft.netcore.app.runtime.linux-x64.8.0.1.nupkg.sha512",

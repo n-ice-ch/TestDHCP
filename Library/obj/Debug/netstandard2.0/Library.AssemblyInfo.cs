@@ -31,7 +31,7 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.4.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22dc2c58a3d21ae43612c54cb23aa2dd11ea6773")]
 [assembly: System.Reflection.AssemblyProductAttribute("DHCPLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DHCPLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.4.2.0")]

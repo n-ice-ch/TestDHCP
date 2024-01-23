@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestDHCP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22dc2c58a3d21ae43612c54cb23aa2dd11ea6773")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestDHCP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestDHCP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

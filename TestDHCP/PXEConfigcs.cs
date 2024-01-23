@@ -9,7 +9,7 @@ namespace TestDHCP
 {
     public class PXEConfig
     {
-        public string BindAddress { get; set; } = "192.168.2.155";
+        public string BindAddress { get; set; } = "0.0.0.0";
         public string NetMask { get; set; } = "255.255.255.0";
 
         public bool Verbose { get; set; } = true;

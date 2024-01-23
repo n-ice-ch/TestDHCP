@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e0lOL3oqLiA1FHR/Rh71nevtixAknkVo9wAByznuROQBCYw+k0Yay3JXE/InQ/ywUvEmjwBI+YfqMBWLdi6v7Q==",
+  "dgSpecHash": "NDEU1hz0aDyPBFZMyDLArPkC/TZBUw5szQaMHBCDpUi2ePpWnPpoOj5ptEesGs5gqzXSPGMveUMS6WH39rJkfw==",
   "success": true,
-  "projectFilePath": "C:\\temp\\pxe\\Library\\Library.csproj",
+  "projectFilePath": "C:\\GIT\\_nw\\TestDHCP\\Library\\Library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barne\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\pxe\\TestDHCP\\TestDHCP.csproj": {}
+    "C:\\GIT\\_nw\\TestDHCP\\TestDHCP\\TestDHCP.csproj": {}
   },
   "projects": {
-    "C:\\temp\\pxe\\Library\\Library.csproj": {
+    "C:\\GIT\\_nw\\TestDHCP\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\pxe\\Library\\Library.csproj",
+        "projectUniqueName": "C:\\GIT\\_nw\\TestDHCP\\Library\\Library.csproj",
         "projectName": "DHCPLibrary",
-        "projectPath": "C:\\temp\\pxe\\Library\\Library.csproj",
+        "projectPath": "C:\\GIT\\_nw\\TestDHCP\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\barne\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\pxe\\Library\\obj\\",
+        "outputPath": "C:\\GIT\\_nw\\TestDHCP\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\temp\\pxe\\TestDHCP\\TestDHCP.csproj": {
+    "C:\\GIT\\_nw\\TestDHCP\\TestDHCP\\TestDHCP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\pxe\\TestDHCP\\TestDHCP.csproj",
+        "projectUniqueName": "C:\\GIT\\_nw\\TestDHCP\\TestDHCP\\TestDHCP.csproj",
         "projectName": "TestDHCP",
-        "projectPath": "C:\\temp\\pxe\\TestDHCP\\TestDHCP.csproj",
+        "projectPath": "C:\\GIT\\_nw\\TestDHCP\\TestDHCP\\TestDHCP.csproj",
         "packagesPath": "C:\\Users\\barne\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\pxe\\TestDHCP\\obj\\publish\\linux-x64\\",
+        "outputPath": "C:\\GIT\\_nw\\TestDHCP\\TestDHCP\\obj\\publish\\linux-x64\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -103,8 +103,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\temp\\pxe\\Library\\Library.csproj": {
-                "projectPath": "C:\\temp\\pxe\\Library\\Library.csproj"
+              "C:\\GIT\\_nw\\TestDHCP\\Library\\Library.csproj": {
+                "projectPath": "C:\\GIT\\_nw\\TestDHCP\\Library\\Library.csproj"
               }
             }
           }
